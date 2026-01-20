@@ -1,4 +1,4 @@
-import CardData from "./components/CardData.jsx";
+import CardData from "./CardData.jsx";
 
 const CardApp = () => {
 
